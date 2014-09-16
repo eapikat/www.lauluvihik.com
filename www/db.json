@@ -1,0 +1,39 @@
+{
+	"categories" : {
+		"100" : {
+			"description_en" : "National Anthems",
+			"description_et" : "H\u00FCmnid"
+		},
+		"200" : {
+			"description_en" : "Christmas Songs",
+			"description_et" : "J\u00F5ululaulud"
+		}
+	},
+	"songs" : [
+		{
+			"id" : "100EE01",
+			"title" : "Mu Isamaa, Mu \u00D5nn ja R\u00F5\u00F5m",
+			"subtitle" : "Eesti H\u00FCmn",
+			"filename" : "MuIsamaa_Mu6nnJaR66m",
+			"categories" : ["100"]
+		},
+		{
+			"id" : "2001001",
+			"title" : "L\u00E4bi Lume Sahiseva",
+			"filename" : "L2bi_Lume_Sahiseva",
+			"categories" : ["200"]
+		},
+		{
+			"id" : "2001002",
+			"title" : "Oh Kuusepuu",
+			"filename" : "Oh_Kuusepuu",
+			"categories" : ["200"]
+		},
+		{
+			"id" : "2001003",
+			"title" : "P\u00FCha \u00D6\u00F6",
+			"filename" : "Pyha_OeOe",
+			"categories" : ["200"]
+		}
+	]
+}
