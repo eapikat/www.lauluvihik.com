@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>MuseScore 1.3</software>
-      <encoding-date>2014-09-16</encoding-date>
+      <encoding-date>2014-12-04</encoding-date>
       </encoding>
     </identification>
   <defaults>
@@ -389,7 +389,7 @@
           </lyric>
         <lyric number="3">
           <syllabic>end</syllabic>
-          <text>tan</text>
+          <text>tand</text>
           </lyric>
         </note>
       </measure>
@@ -921,7 +921,7 @@
           </lyric>
         <lyric number="3">
           <syllabic>middle</syllabic>
-          <text>lu</text>
+          <text>luu</text>
           </lyric>
         </note>
       </measure>
