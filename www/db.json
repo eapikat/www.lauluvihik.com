@@ -4,6 +4,10 @@
 			"description_en" : "National Anthems",
 			"description_et" : "H\u00FCmnid"
 		},
+		"101" : {
+			"description_en" : "Estonian Patriotic Songs",
+			"description_et" : "Eesti Patriootlikud Laulud"
+		},
 		"200" : {
 			"description_en" : "Christmas Songs",
 			"description_et" : "J\u00F5ululaulud"
@@ -16,6 +20,12 @@
 			"subtitle" : "Eesti H\u00FCmn",
 			"filename" : "MuIsamaa_Mu6nnJaR66m",
 			"categories" : ["100"]
+		},
+		{
+			"id" : "1011005",
+			"title" : "Meie Koome Kangast",
+			"filename" : "Meie_Koome_Kangast",
+			"categories" : ["101"]
 		},
 		{
 			"id" : "2001001",
